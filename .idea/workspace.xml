@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c698f3f-e231-401b-a181-ef5c3c4fa1ef" name="Changes" comment="Created Distance class">
-      <change afterPath="$PROJECT_DIR$/src/ua/edu/cbs/lms/hometask_oop_6_2/task_2/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6c698f3f-e231-401b-a181-ef5c3c4fa1ef" name="Changes" comment="Created Animals enum">
+      <change afterPath="$PROJECT_DIR$/src/ua/edu/cbs/lms/hometask_oop_6_2/task_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681024729054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created Animals enum">
+      <created>1681025778882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681025778882</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +98,7 @@
     <MESSAGE value="Added Vehicle class" />
     <MESSAGE value="Added Wheel &amp; Door classes" />
     <MESSAGE value="Created Distance class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Distance class" />
+    <MESSAGE value="Created Animals enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Animals enum" />
   </component>
 </project>

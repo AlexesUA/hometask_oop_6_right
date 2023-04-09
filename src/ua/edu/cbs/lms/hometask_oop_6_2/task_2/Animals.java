@@ -13,6 +13,6 @@ public enum Animals {
 
     @Override
     public String toString() {
-        return String.format("This animal is %1$s, his %2$s years old.",this,age);
+        return String.format("This animal is %1$s, his %2$s years old.",name(),age);
     }
 }
