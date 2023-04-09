@@ -6,5 +6,15 @@ public class Vehicle {
         System.out.println("It is print method to Vehicle class.");
     }
 
+    public class Wheel{
+        public void print(){
+            System.out.println("It is print method to Wheel class.");
+        }
+    }
 
+    public class Door{
+        public void print(){
+            System.out.println("It is print method to Door class.");
+        }
+    }
 }
