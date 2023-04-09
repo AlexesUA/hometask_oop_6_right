@@ -11,17 +11,19 @@ public class Distance {
         System.out.println("Distance = " + distance);
     }
 
+
+
     public static class Converter{
         public static double convertFromMetersToKilometers(double distance){
             return distance/1000;
         }
 
         public static double convertFromKilometersToMiles(double distance){
-            return distance * 0.621371;
+            return distance/1000 * 0.621371;
         }
 
         public static double convertFromKilometersToFeet(double distance){
-            return distance * 3280.839895;
+            return distance/1000 * 3280.839895;
         }
     }
 
