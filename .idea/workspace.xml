@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c698f3f-e231-401b-a181-ef5c3c4fa1ef" name="Changes" comment="Created Animals enum">
-      <change afterPath="$PROJECT_DIR$/src/ua/edu/cbs/lms/hometask_oop_6_2/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/edu/cbs/lms/hometask_oop_6_2/task_4/AutoColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/edu/cbs/lms/hometask_oop_6_2/task_4/Vehicles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "task__6__2__2",
+    "git-widget-placeholder": "task__6__2__4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
