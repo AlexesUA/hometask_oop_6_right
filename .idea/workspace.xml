@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c698f3f-e231-401b-a181-ef5c3c4fa1ef" name="Changes" comment="Added Wheel &amp; Door classes">
-      <change afterPath="$PROJECT_DIR$/src/ua/edu/cbs/lms/hometask_oop_6_1/task2/Main.java" afterDir="false" />
+    <list default="true" id="6c698f3f-e231-401b-a181-ef5c3c4fa1ef" name="Changes" comment="Added Main class">
+      <change afterPath="$PROJECT_DIR$/src/ua/edu/cbs/lms/hometask_oop_6_1/task3/Distance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "task__6__1__2",
+    "git-widget-placeholder": "task__6__1__3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
